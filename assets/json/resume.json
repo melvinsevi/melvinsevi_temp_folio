@@ -20,33 +20,33 @@
       "institution": "ENS Paris-Saclay",
       "location": "Paris, France",
       "studyType": "Master of Research (MVA, 2nd year)",
-      "startDate": "2023-09-01",
-      "endDate": "2024-09-01",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Mathematics, Vision, Apprentissage (MVA)"
     },
     {
       "institution": "Sorbonne University",
       "location": "Paris, France",
       "studyType": "Master's in Applied Mathematics (1st year)",
-      "startDate": "2022-09-01",
-      "endDate": "2023-06-01",
-      "summary": "With high honors"
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": 
     },
     {
       "institution": "Sorbonne University",
       "location": "Paris, France",
       "studyType": "Bachelor's in Mathematics",
-      "startDate": "2019-09-01",
-      "endDate": "2022-06-01",
-      "summary": "With honors"
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": 
     },
     {
       "institution": "Sorbonne University",
       "location": "Paris, France",
       "studyType": "Bachelor's in Computer Science",
-      "startDate": "2019-09-01",
-      "endDate": "2022-06-01",
-      "summary": "With honors"
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": 
     }
   ],
   "projects": [
