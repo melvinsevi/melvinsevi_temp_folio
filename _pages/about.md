@@ -21,8 +21,4 @@ social: true # includes social icons at the bottom of the page
 
 I am Sevi Melvin, a final-year Master of Research student in Mathematics, Vision, Apprentissage (MVA) at ENS Paris-Saclay, renowned for its excellence in machine learning research. With a strong academic background in Applied Mathematics and Computer Science, I am deeply passionate about advancing the frontiers of machine learning, particularly in the domains of Computer Vision and multimodal learning.
 
-My research interests span Generative AI, Diffusion Models, and Large Language Models, and I am driven by a desire to contribute to cutting-edge research in these areas.. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span Generative AI, Diffusion Models, and Large Language Models, and I am driven by a desire to contribute to cutting-edge research in these areas.
