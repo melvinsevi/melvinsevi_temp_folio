@@ -5,7 +5,7 @@
       value: Sevi Melvin
     - name: Contact
       value: |
-        - GitHub: [https://github.com/melvinsevi](https://github.com/melvinsevi)
+        - GitHub: https://github.com/melvinsevi](https://github.com/melvinsevi
         - LinkedIn: [https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/)
         - Email: [melvinsevi6@gmail.com](mailto:melvinsevi6@gmail.com)
 
@@ -91,16 +91,6 @@
     - Programming Languages and Software: Advanced in Python; intermediate in C, Java, and C++; familiarity with NumPy, Pytorch, Pandas, Scikit-learn, OpenCV, Google Cloud.
     - Natural Languages: Fluent in French; good command of English; basic understanding of Spanish.
 
-- title: Achievements
-  type: list
-  contents:
-    - Graduated with High Honors from the first year Master's program at SU.
-    - Finished in the top 7% during the first year of the Bachelor's program, qualifying for a dual degree in Mathematics and Computer Science.
-    - Ranked 9th and 11th respectively among all students in the dual degree promotion for Mathematics and Computer Science during the third year.
-    - Graduated with honors in both Bachelor's degrees, achieving a cumulative GPA of 3.5 in the final year in both majors.
-    - Gained admission to renowned institutions such as ENSAE Paris – Institut Polytechnique de Paris, Dauphine PSL, and ENS Paris-Saclay upon completing Master's program at SU.
-    - Exceeded expectations in Master's level courses, achieving top rankings in various subjects.
-    - Subject-specific rankings in Bachelor's degree studies, demonstrating consistent academic excellence.
 
 - title: Interests and Activities
   type: paragraph
