@@ -1,97 +1,108 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Sevi Melvin
+    - name: Contact
+      value: |
+        - GitHub: [https://github.com/melvinsevi](https://github.com/melvinsevi)
+        - LinkedIn: [https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/)
+        - Email: [melvinsevi6@gmail.com](mailto:melvinsevi6@gmail.com)
+
+- title: Summary
+  type: paragraph
+  contents: |
+    I am a final-year Master of Research student in the Mathematics, Vision, Apprentissage (MVA) program at ENS Paris-Saclay, the most prestigious master's degree in machine learning in France. My main research interests include Computer Vision and multimodal learning, with a specific focus on Generative AI, Diffusion Models, and Large Language Models. I am eager to pursue a Ph.D. to delve deeper into these areas and contribute to the cutting-edge research in the field.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master of Research MVA (2nd year) in Mathematics and Machine Learning
+      institution: ENS Paris-Saclay, Paris, France
+      duration: Sep. 2023 - Sep. 2024 (Expected)
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master's degree in Applied Mathematics (1st year)
+      institution: Sorbonne University, Paris, France
+      duration: Sep. 2022 - Jun. 2023
+      honors: With high honors
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Bachelor's degree in Mathematics
+      institution: Sorbonne University, Paris, France
+      duration: Sep. 2019 - Jun. 2022
+      honors: With honors
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Bachelor's degree in Computer Science
+      institution: Sorbonne University, Paris, France
+      duration: Sep. 2019 - Jun. 2022
+      honors: With honors
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Courses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Object Recognition and Computer Vision (taught by G.VAROL, J. PONCE, C. SCHMID, I. LAPTEV, J. SIVIC, M. AUBRY)
+    - Deep Learning
+    - Generative Models for Images
+    - Reinforcement Learning
+    - Algorithms for Speech and NLP
+    - Convex Optimization
+    - Geometric Data Analysis
+    - Kernel Methods in ML
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Text-to-Image generation control with IP-Adapter
+      duration: On going
+      description: Contribution to the development of the IP-Adapter model for text-to-image generation.
+
+    - title: Refining image segmentation through diffusion models
+      duration: 2023-2024
+      description: Exploration of diffusion models for refining image segmentation tasks.
+
+    - title: Data challenge for sketch drawings images classification
+      duration: 2023
+      description: Fine-tuning a pre-trained ViT transformer for classifying sketch drawing images.
+
+    - title: Graph Neural Networks Benchmarking Paper Review
+      duration: 2023
+      description: Thorough review of the "Benchmarking Graph Neural Networks" paper by Dwivedi et al.
+
+    - title: Numerical Probabilities and Computational Statistics
+      duration: 2023
+      description: Implementation of the Expectation-Maximization (EM) algorithm for parameter estimation in Hidden Markov Models.
+
+    - title: Graph Motif Detection Project
+      duration: 2021
+      description: Development of efficient computational algorithms to detect subgraph structures in large graphs.
+
+- title: Research Experience
+  type: paragraph
+  contents: |
+    From April to September, I will undertake a 6-month research internship as part of my MVA master's degree, aiming to publish a paper at top conferences. With a passion for research and a commitment to making valuable contributions, I am excited to collaborate with leading experts and enhance my skills in this dynamic field. Actively seeking opportunities.
+
+- title: Professional Experience
+  type: paragraph
+  contents: |
+    Tutored a small class of 14 second-year bachelor's students in topology, differential calculus, and probability for two consecutive semesters. Developed personalized lesson plans and materials, utilizing effective teaching strategies to enhance comprehension and retention. Fostered a collaborative learning environment, encouraging critical thinking and problem-solving skills development. Demonstrated subject matter expertise, patience, and dedication to empowering student success.
+
+- title: Skills
+  type: list
+  contents:
+    - Programming Languages and Software: Advanced in Python; intermediate in C, Java, and C++; familiarity with NumPy, Pytorch, Pandas, Scikit-learn, OpenCV, Google Cloud.
+    - Natural Languages: Fluent in French; good command of English; basic understanding of Spanish.
+
+- title: Achievements
+  type: list
+  contents:
+    - Graduated with High Honors from the first year Master's program at SU.
+    - Finished in the top 7% during the first year of the Bachelor's program, qualifying for a dual degree in Mathematics and Computer Science.
+    - Ranked 9th and 11th respectively among all students in the dual degree promotion for Mathematics and Computer Science during the third year.
+    - Graduated with honors in both Bachelor's degrees, achieving a cumulative GPA of 3.5 in the final year in both majors.
+    - Gained admission to renowned institutions such as ENSAE Paris – Institut Polytechnique de Paris, Dauphine PSL, and ENS Paris-Saclay upon completing Master's program at SU.
+    - Exceeded expectations in Master's level courses, achieving top rankings in various subjects.
+    - Subject-specific rankings in Bachelor's degree studies, demonstrating consistent academic excellence.
+
+- title: Interests and Activities
+  type: paragraph
+  contents: |
+    Chess: Avid chess player with over three years of experience; achieved a peak rating of 1600 on chess.com. Competitive Sports (Varsity Basketball): Experienced team athlete who played varsity basketball throughout college bachelor's degree. Music Enthusiast: Passionate about music, particularly Jazz and Hip Hop.
