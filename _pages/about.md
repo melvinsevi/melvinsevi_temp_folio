@@ -15,7 +15,7 @@ more_info: |
 
   🌆 City, State 12345
 
-  🌍 Visit me on [LinkedIn](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/) or connect via email: melvinsevi6@gmail.com
+  🌍 Visit me on [LinkedIn]() or connect via email: melvinsevi6@gmail.com
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
