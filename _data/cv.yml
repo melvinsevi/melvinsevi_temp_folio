@@ -7,25 +7,20 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master's degree in Mathematics, Machine Learning, Computer Vision
+    - title: Masters degree in Mathematics, Machine Learning, Computer Vision
       institution: ENS Paris-Saclay
       year: 2023 - 024
       description:
         - MVA program
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Master's degree in Applied Mathematics
+    - title: Masters degree in Applied Mathematics
       year: 2022 - 2023
       institution: Sorbonne University
       description:
-    - title: Bachelor's degree in Mathematics
+    - title: Bachelors degree in Mathematics
       year: 2019 - 2022
       institution: Sorbonne University
       description:
-    - title: Bachelor's degree in Computer Science
+    - title: Bachelors degree in Computer Science
       year: 2019 - 2022
       institution: Sorbonne University
       description:
@@ -38,7 +33,7 @@
       institution: Sorbonne University
       year: 2022 - 2023
       description:
-        - Tutor of a group of students in second year bachelor's degree in topology and differential calculus and probability.
+        - Tutor of a group of students in second year bachelors degree in topology and differential calculus and probability.
 
 - title: Open Source Projects
   type: time_table
@@ -46,17 +41,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
